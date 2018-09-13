@@ -6,3 +6,4 @@
  * Time: 0:07
  */
 echo 1;
+echo 2;
